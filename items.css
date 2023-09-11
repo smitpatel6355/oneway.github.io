@@ -1,0 +1,53 @@
+.fan{
+    text-decoration: none;
+    color: black;
+    font-size: 35px;
+    padding: 0 50px;
+
+    
+   
+   
+}
+.coolar{
+    text-decoration: none;
+    color: black;
+    font-size: 35px;
+    padding: 0 50px;
+
+   
+}
+.freej{
+    text-decoration: none;
+    color: black;
+    font-size: 35px;
+    padding: 0 50px;
+
+    
+}
+.ac{
+    text-decoration: none;
+    color: black;
+    font-size: 35px;
+    padding: 0 50px;
+
+}
+.mixchar{
+    text-decoration: none;
+    color: black;
+    font-size: 35px;
+    padding: 0 50px;
+
+    
+}
+.secondbar a:hover{
+    background-color: rgb(136, 144, 255);
+    color:aqua;
+}
+.secondbar {
+    background-color: rgb(243, 187, 115);
+    text-align: center;
+   
+}  
+.table,th,td,tr{
+    border: 30px solid rgb(89, 84, 89);
+}

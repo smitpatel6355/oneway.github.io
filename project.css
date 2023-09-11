@@ -1,0 +1,81 @@
+ul{
+    list-style: none;
+    margin:0;
+    padding:0;
+    
+   
+   
+}
+
+
+.bar{
+    color:black;
+    text-align: center;
+    font-size: 36px;
+    background-color: rgb(255, 220, 181);
+    margin:0;
+    padding: 0;
+    border:5px solid silver;
+
+}
+.bar a:hover{
+    background-color: rgb(142, 142, 255);
+    color: white;
+}
+
+.photes{
+    color:black;
+    text-decoration: none;
+     padding:0  15px;
+}
+.about{
+    color:black;
+    text-decoration: none;
+    padding: 0 15px;
+}
+    
+
+.menu{
+    color:black;
+    text-decoration: none;
+    padding: 0 15px;
+}
+
+
+.contect{
+    color:black;
+    text-decoration: none;
+    padding: 0 15px;
+
+} 
+.locetion{
+    color:black;
+  
+    text-decoration: none;
+    padding: 0 15px;
+
+}
+.items{
+    color:black;
+  
+    text-decoration: none;
+    padding: 0 15px;
+
+}
+.home_serv{
+    color:black;
+  
+    text-decoration: none;
+    padding: 0 15px;
+
+}
+.image_1{
+    width: 32%;
+    height: 200px;
+    border:2px solid white;
+    background-color: rgb(66, 66, 205);
+}
+
+   
+    
+    
